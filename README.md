@@ -1,16 +1,71 @@
-<h1 align="center">Hola 👋, Soy Abdel Arocha</h1>
-<p align="center">
+<h1 align="center">¡Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, Soy Abdel Arocha
+
 ![age](https://img.shields.io/badge/age-30-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Venezuela-3c9)
-</p>
-  
-<h3 align="left">soy desarrollador FullStack con ganas de desarrollarme en el FrontEnd, con capacidad de desarrollar proyectos en grupo, escalables y modularizados.<br> <br>  Tengo muchísimas ganas de convertirme en un gran Sr developer y mis ganas de aprender tecnologías nuevas hacen que sea imparable frente a un reto nuevo.<br> <br>  Mi experiencia laboral desarrollando ha sido principalmente en el ámbito académico dentro del bootcamp de henry que he culminado recientemente, pero esto me ha abierto la mente y tengo un proyecto personal en desarrollo y varios proyectos en mente para un futuro.<br> <br>  Tengo como objetivo seguir aprendiendo dia a dia con proyectos reales y asi ir incrementando mis habilidades técnicas frente a un desarrollo que ponga a prueba mis capacidades. <br><br>
-  ¿Quieres saber mas de mi?<br> contactame!<br><br> Tlf: +58 424-2812010 <br>Email: abda08.ab@gmail.com</h3>
+  </h1>
+<h3 align="left">Soy desarrollador FullStack con ganas de desarrollarme en el FrontEnd, con capacidad de desarrollar proyectos en grupo, escalables y modularizados.<br> <br>  Tengo muchísimas ganas de convertirme en un gran Sr developer y mis ganas de aprender tecnologías nuevas hacen que sea imparable frente a un reto nuevo.<br> <br>  Mi experiencia laboral desarrollando ha sido principalmente en el ámbito académico dentro del bootcamp de henry que he culminado recientemente, pero esto me ha abierto la mente y tengo un proyecto personal en desarrollo y varios proyectos en mente para un futuro.<br> <br>  Tengo como objetivo seguir aprendiendo dia a dia con proyectos reales y asi ir incrementando mis habilidades técnicas frente a un desarrollo que ponga a prueba mis capacidades. <br><br>
+  </h3>
 
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<table align="center">
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg">
+</td>
+
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg">
+</td>
+
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
+</td>
+   <td align="center" width="20%">
+        <img height="60px" src="https://cdn.svgporn.com/logos/react.svg">
+</td>
+   <td align="center" width="20%">
+        <img height="60px" src="https://cdn.svgporn.com/logos/express.svg">
+</td>
+</tr>
+   <tr>
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+</td>
+
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/sequelize.svg">
+</td>
+
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+</td>
+   <td align="center" width="20%">
+        <img height="60px" src="https://cdn.svgporn.com/logos/postman.svg">
+</td>
+   <td align="center" width="20%">
+        <img height="60px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+</td>
+</tr>
+  <tr>
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/redux.svg"
+     </td>
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/jwt.svg">
+</td>
+
+<td align="center" width="20%">
+<img height="60px" src="https://cdn.svgporn.com/logos/react-router.svg">
+</td>
+
+</tr>
+
+</tbody>
+</table>
+
+<h3>¿Quieres saber mas de mi?<br> contactame!<br><br>Email: abda08.ab@gmail.com</h3>
+
+<h1 align="center"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></h1>
 
