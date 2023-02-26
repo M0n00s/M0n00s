@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, Soy Abdel Arocha
 
-![age](https://img.shields.io/badge/age-30-blue)
+![age](https://img.shields.io/badge/age-32-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Venezuela-3c9)
   </h1>
-<h4 align="left">Soy desarrollador FullStack con ganas de desarrollarme en el FrontEnd, con capacidad de desarrollar proyectos en grupo, escalables y modularizados.<br> <br>  Tengo muchísimas ganas de convertirme en un gran Sr developer y mis ganas de aprender tecnologías nuevas hacen que sea imparable frente a un reto nuevo.<br> <br>  Mi experiencia laboral desarrollando ha sido principalmente en el ámbito académico dentro del bootcamp de henry que he culminado recientemente, pero esto me ha abierto la mente y tengo un proyecto personal en desarrollo y varios proyectos en mente para un futuro.<br> <br>  Tengo como objetivo seguir aprendiendo dia a dia con proyectos reales y asi ir incrementando mis habilidades técnicas frente a un desarrollo que ponga a prueba mis capacidades. <br><br>
+<h4 align="left">Soy desarrollador FullStack con ganas de desarrollarme en el FrontEnd, con capacidad de desarrollar proyectos en grupo, escalables y modularizados.<br> <br>  Tengo muchísimas ganas de convertirme en un gran Sr developer y mis ganas de aprender tecnologías nuevas hacen que sea imparable frente a un reto nuevo.<br> <br>  Esto me ha abierto la mente y tengo varios proyectos en mente para un futuro.<br> <br>  Tengo como objetivo seguir aprendiendo dia a dia con proyectos reales y asi ir incrementando mis habilidades técnicas frente a un desarrollo que ponga a prueba mis capacidades. <br><br>
   </h4>
 
 
