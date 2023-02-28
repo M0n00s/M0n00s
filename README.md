@@ -1,3 +1,5 @@
+<h1 align="center"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></h1>
+
 <h1 align="center">¡Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, Soy Abdel Arocha
 
 ![age](https://img.shields.io/badge/age-32-blue)
