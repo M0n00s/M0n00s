@@ -6,7 +6,15 @@
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-Venezuela-3c9)
   </h1>
-<h4 align="left">Soy desarrollador FullStack con ganas de desarrollarme en el FrontEnd, con capacidad de desarrollar proyectos en grupo, escalables y modularizados.<br> <br>  Tengo muchísimas ganas de convertirme en un gran Sr developer y mis ganas de aprender tecnologías nuevas hacen que sea imparable frente a un reto nuevo.<br> <br>  Esto me ha abierto la mente y tengo varios proyectos en mente para un futuro.<br> <br>  Tengo como objetivo seguir aprendiendo dia a dia con proyectos reales y asi ir incrementando mis habilidades técnicas frente a un desarrollo que ponga a prueba mis capacidades. <br><br>
+<h4 align="left">Soy desarrollador React Junior apasionado por la tecnología y con ganas de aprender y crecer en carrera profesional. soy una persona que disfruta de trabajar en equipo, tengo habilidades para resolver problemas y estoy interesado en el desarrollo web, Como desarrollador React Junior, me gusta trabajar proyectos emocionantes y desafiantes, aprendiendo del equipo de desarrolladores senior y contribuyendo al éxito del proyecto. soy responsable de desarrollar y mantener aplicaciones web utilizando React, JavaScript <br><br>
+  
+Mis fortalezas: <br>
+- Conocimiento de JavaScript y React.<br>
+- Experiencia en el desarrollo de aplicaciones web.<br>
+- Capacidad para trabajar en equipo y colaborar con otros desarrolladores.<br>
+- Habilidad para resolver problemas de manera efectiva.<br>
+- Interés en aprender nuevas tecnologías y habilidades.<br>
+<br><br>
   </h4>
 
 
